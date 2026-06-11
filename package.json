@@ -1,0 +1,6 @@
+{
+  "name": "psx-price-proxy",
+  "version": "1.0.0",
+  "description": "PSX live price proxy for Yahoo Finance",
+  "private": true
+}
